@@ -22,5 +22,5 @@ This Matlab codes can be extended to a wide range of engineering problems.
 - Khanh N. Chau
 - Khai N. Chau
 
-# References:
+# References
 H. Nguyen-Xuan, Khanh N. Chau, Khai N. Chau, Polytopal composite finite elements, Computer Methods in Applied Mechanics and Engineering, 355, 405-437, 2019 https://doi.org/10.1016/j.cma.2019.06.030.
