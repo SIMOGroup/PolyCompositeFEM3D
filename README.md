@@ -3,9 +3,9 @@ We provide here a Matlab-based PolyCompositeFEM3D for three-dimensional solid me
 based on arbitrary polytopes, which we name as Polytopal Composite finite Element (PCE). The key idea is to 
 devise a polynomial projection of compatible strain fields through the least-squares approximation. 
 For nearly incompressible problems, we design a pair of projection operators of volumetric and deviatoric 
-strains resulting in stability of pressure solution. The present approach fulfills a patch test and satisfies 
-the inf–sup stability. Through several numerical investigations, we show that the proposed method reaches 
-the theoretical convergence rate and significantly improves the accuracy of polygonal element based solutions. 
+strains resulting in stability of pressure solution. The present approach satisfies the inf–sup stability. 
+Through several numerical investigations, we show that the proposed method reaches the theoretical convergence rate 
+and significantly improves the accuracy of polygonal element based solutions. 
 
 This Matlab codes can be extended to a wide range of engineering problems. 
 
